@@ -1,0 +1,2 @@
+# shadowsocks
+go版shadowsocks
